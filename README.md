@@ -1,4 +1,4 @@
-# x-validator
+# go-validator
 
 
 Usage example
@@ -10,7 +10,7 @@ package main
 import (
 	"fmt"
 
-	validator "github.com/otyang/x-validator"
+	validator "github.com/otyang/go-validator"
 )
 
 func main() {
