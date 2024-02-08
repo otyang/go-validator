@@ -53,4 +53,4 @@ func main() {
 }
 ```
  
-See test for more on how to use.# go-validator
+See test for more on how to use.
