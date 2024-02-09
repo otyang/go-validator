@@ -1,5 +1,6 @@
 # go-validator
 
+Take note this is just a wrapper around go-playground-validator. This is just to allow easy use.
 
 Usage example
  
